@@ -1,2 +1,3 @@
-# gbm
-official prices for the Go Black Market
+# Go Black Marker
+Official prices for the Go Black Market.
+Updated Constantly!
